@@ -14,7 +14,7 @@ The project is guided step by step (the notice is not available).
 [![ftz2.png](https://i.postimg.cc/rsjnYtn2/ftz2.png)](https://postimg.cc/SYXfnjbg)<br><br>
 [![ftz3.png](https://i.postimg.cc/1zFW1dCH/ftz3.png)](https://postimg.cc/Nyg81dw9)<br><br>
 The source code is also detailed.<br><br>
-[![radar.png](https://i.postimg.cc/TwCgzq60/radar.png)](https://postimg.cc/N92KTXL2)<br><br>
+[![radar.png](https://i.postimg.cc/jdGPYSGp/radar.png)](https://postimg.cc/tYNYhpRk)<br><br>
 
 ## :computer: Technologies
 ArduinoRadar is created with:
